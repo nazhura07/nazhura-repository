@@ -1,0 +1,4 @@
+nazhura repository resolusi
+-mengenal tentang dunia pemrograman
+-mengumpulkan referensi tengtang dunia program mulai dari paling dasar
+-mengikuti kelas programmer
